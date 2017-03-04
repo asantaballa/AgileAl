@@ -19,7 +19,7 @@ body {
 
 .reveal {
   font-family: "Cousine", Helvetica, sans-serif;
-  font-size: 42px;
+  font-size: 36px;
   font-weight: normal;
   color: lime; }
 
@@ -99,6 +99,10 @@ body {
   display: inline-block;
   text-align: left;
   margin: 0 0 0 1em; }
+
+.reveal li {
+  text-align: left;
+  margin-bottom: 1em; }
 
 .reveal ol {
   list-style-type: decimal; }
