@@ -115,7 +115,7 @@ body {
 
 .reveal ul ul li {
   text-align: left;
-  margin-top: 0em; }
+  margin-top: .2em; }
 
 .reveal ul ul ul {
   list-style-type: circle; }
